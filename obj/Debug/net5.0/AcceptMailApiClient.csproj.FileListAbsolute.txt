@@ -1,0 +1,12 @@
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\bin\Debug\net5.0\AcceptMailApiClient.deps.json
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\bin\Debug\net5.0\AcceptMailApiClient.dll
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\bin\Debug\net5.0\ref\AcceptMailApiClient.dll
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\bin\Debug\net5.0\AcceptMailApiClient.pdb
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\obj\Debug\net5.0\AcceptMailApiClient.csproj.AssemblyReference.cache
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\obj\Debug\net5.0\AcceptMailApiClient.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\obj\Debug\net5.0\AcceptMailApiClient.AssemblyInfoInputs.cache
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\obj\Debug\net5.0\AcceptMailApiClient.AssemblyInfo.cs
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\obj\Debug\net5.0\AcceptMailApiClient.csproj.CoreCompileInputs.cache
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\obj\Debug\net5.0\AcceptMailApiClient.dll
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\obj\Debug\net5.0\ref\AcceptMailApiClient.dll
+G:\PROJECT\2021\10-12\Work\FitnessNetwork\AcceptMailApiClient\obj\Debug\net5.0\AcceptMailApiClient.pdb
